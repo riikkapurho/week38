@@ -22,7 +22,7 @@ body {
 .show-info {
   width: 100%;
 }
-@media only screen and (width>799px) {
+@media only screen and (width>800px) {
   .show-data {
     display: flex;
   }
